@@ -1,13 +1,28 @@
-#header{
-    position: absolute;
-    top: 0;
-    left 0;
-}
+/*********************************
+*
+* Author: Lucjan
+* Date: 04.05.19
+*
+**********************************/
 
-#header h1{
-    font-size: 32p;
-}
+
+/* Style all P tags */
 
 p{
-    font-size: 12px;
+    font-size: 18px;
+    color: red;
+}
+
+/*
+
+#header p{
+    font-size: 24px;
+}
+
+*/
+
+/* Style all header tags */
+
+h1{
+    font-size: 44px;
 }
