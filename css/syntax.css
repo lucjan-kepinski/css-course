@@ -1,3 +1,8 @@
-article h2, article p{
-    font-family: totallyAwesomefont, hamFont, serif;
+h1{
+    font-weight: normal;
+}
+
+p{
+    font-weight: 500;
+    font-family: "Yu Gothic";
 }
