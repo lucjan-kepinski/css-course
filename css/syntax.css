@@ -1,18 +1,5 @@
 #banner{
-    background-color: #606060;
     width: 100%;
     height: 300px;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBKRwYcgXvmTioRAkaOyH4TdfjurogmCWAvFRNFqVnohIBKU39Ig), url(https://qph.fs.quoracdn.net/main-qimg-e2126ec618d9331d266d49eb09f2cf40.webp);
-    background-repeat: no-repeat;
-    background-position: center, top left;
-    background-size: 300px, 100%;
+    background-color: rgb(143, 182, 14)
 }
-
-/*
-
-https://thenetninja.blob.core.windows.net/thenetninja/images/sitewide/home-banner.jpg
-https://thenetninja.blob.core.windows.net/thenetninja/images/sitewide/logo-white.png
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBKRwYcgXvmTioRAkaOyH4TdfjurogmCWAvFRNFqVnohIBKU39Ig
-https://qph.fs.quoracdn.net/main-qimg-e2126ec618d9331d266d49eb09f2cf40.webp
-
-*/
